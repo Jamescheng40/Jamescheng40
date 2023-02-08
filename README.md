@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Jamescheng40
-- 👀 I’m interested in reverse engineering/security
-- 🌱 I’m currently learning how to break down security kernel driver
-- 💞️ I’m looking to collaborate on reverse engineering anti cheat/anti virus parameter
-- 📫 How to reach me cheng-james@hotmail.com/discord@ ghosthunterr#2532
+- 👀 I’m interested in Mathematics and coding stuff based on mathematics
+- 📫 How to reach me at cheng-james@hotmail.com
 
 <!---
 Jamescheng40/Jamescheng40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
